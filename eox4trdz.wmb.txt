@@ -1,0 +1,51 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   BullCowGame/BullCowGame.vcxproj
+#	new file:   BullCowGame/BullCowGame.vcxproj.filters
+#	new file:   BullCowGame/Debug/BullCowGame.Build.CppClean.log
+#	new file:   BullCowGame/Debug/BullCowGame.log
+#	new file:   BullCowGame/Debug/BullCowGame.tlog/BullCowGame.lastbuildstate
+#	new file:   BullCowGame/Debug/BullCowGame.tlog/CL.command.1.tlog
+#	new file:   BullCowGame/Debug/BullCowGame.tlog/CL.read.1.tlog
+#	new file:   BullCowGame/Debug/BullCowGame.tlog/CL.write.1.tlog
+#	new file:   BullCowGame/Debug/BullCowGame.tlog/link.command.1.tlog
+#	new file:   BullCowGame/Debug/BullCowGame.tlog/link.read.1.tlog
+#	new file:   BullCowGame/Debug/BullCowGame.tlog/link.write.1.tlog
+#	new file:   BullCowGame/Debug/FBullCowGame.obj
+#	new file:   BullCowGame/Debug/main.obj
+#	new file:   BullCowGame/Debug/vc140.idb
+#	new file:   BullCowGame/Debug/vc140.pdb
+#	new file:   BullCowGame/FBullCowGame.cpp
+#	new file:   BullCowGame/FBullCowGame.h
+#	new file:   BullCowGame/main.cpp
+#	new file:   BullCowGame/x64/Debug/BullCowGame.log
+#	new file:   BullCowGame/x64/Debug/BullCowGame.tlog/BullCowGame.lastbuildstate
+#	new file:   BullCowGame/x64/Debug/BullCowGame.tlog/CL.command.1.tlog
+#	new file:   BullCowGame/x64/Debug/BullCowGame.tlog/CL.read.1.tlog
+#	new file:   BullCowGame/x64/Debug/BullCowGame.tlog/CL.write.1.tlog
+#	new file:   BullCowGame/x64/Debug/BullCowGame.tlog/link.command.1.tlog
+#	new file:   BullCowGame/x64/Debug/BullCowGame.tlog/link.read.1.tlog
+#	new file:   BullCowGame/x64/Debug/BullCowGame.tlog/link.write.1.tlog
+#	new file:   BullCowGame/x64/Debug/FBullCowGame.obj
+#	new file:   BullCowGame/x64/Debug/main.obj
+#	new file:   BullCowGame/x64/Debug/vc140.idb
+#	new file:   BullCowGame/x64/Debug/vc140.pdb
+#	new file:   Debug/BullCowGame.exe
+#	new file:   Debug/BullCowGame.ilk
+#	new file:   Debug/BullCowGame.pdb
+#	new file:   Section_02.VC.db
+#	new file:   Section_02.sln
+#	new file:   x64/Debug/BullCowGame.exe
+#	new file:   x64/Debug/BullCowGame.ilk
+#	new file:   x64/Debug/BullCowGame.pdb
+#
+# Untracked files:
+#	.vs/
+#	Section_02.VC.VC.opendb
+#
+
